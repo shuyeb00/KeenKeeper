@@ -16,7 +16,7 @@ A personal relationship manager that helps you keep your friendships alive.
 - 📊 Friendship analytics donut chart
 
 ## Live Link
-<!-- Deployment er por add hobe -->
+https://keen-keeper-jeiie6cl5-shuyeb00s-projects.vercel.app/
 
 ## GitHub
 https://github.com/shuyeb00/KinKeeper
