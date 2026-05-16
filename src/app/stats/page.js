@@ -54,7 +54,7 @@ export default function StatsPage() {
                     </ResponsiveContainer>
                 ) : (
                     <div className="h-64 flex items-center justify-center text-gray-400">
-                        <p>No interaction data yet.</p>
+                        <p>No interaction data yet</p>
                     </div>
                 )}
             </div>
